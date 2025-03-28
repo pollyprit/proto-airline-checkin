@@ -22,8 +22,6 @@ public class Solution1 extends Thread {
         try {
             connection.setAutoCommit(false);
 
-            connection.setTransactionIsolation(Connection.TRANSACTION_SERIALIZABLE);
-
             String query = "SELECT * FROM flight " +
                     " WHERE trip = 1 and user_id is null" +
                     " ORDER BY id LIMIT 1";
