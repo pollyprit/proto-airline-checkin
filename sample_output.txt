@@ -1,0 +1,698 @@
+
+Seat 1-A selected by Zacherie Reaveley
+Seat 1-A selected by Abey Askie
+Seat 1-A selected by Prince Clac
+Seat 1-A selected by Krysta Guppie
+Seat 1-A selected by Denys Marvelley
+Seat 1-A selected by Merralee Gaw
+Seat 1-A selected by Curry Caughte
+Seat 1-A selected by Jerry Jillitt
+Seat 1-A selected by Linnea Glander
+Seat 1-A selected by Drake Bernardoni
+Seat 1-A selected by Willi Weiss
+Seat 1-A selected by Jerry Hallatt
+Seat 1-A selected by Beale Applegate
+Seat 1-A selected by Jakie Cuddy
+Seat 1-A selected by Francesco Holbie
+Seat 1-A selected by Emeline Borgesio
+Seat 1-A selected by Alexandrina Casley
+Seat 1-A selected by Clayton Wilflinger
+Seat 1-A selected by Irvine Dudenie
+Seat 1-A selected by Cahra Bolden
+Seat 1-A booked by   Emeline Borgesio
+Seat 1-B selected by Orlan Bickerstaff
+Seat 1-B selected by Christin Frany
+Seat 1-B booked by   Orlan Bickerstaff
+Seat 1-B selected by Jewel Sutcliffe
+Seat 1-C selected by Sarge Kenshole
+Seat 1-C selected by Ramsey Van Velden
+Seat 1-C booked by   Ramsey Van Velden
+Seat 1-C selected by Cyrille Gorger
+Seat 1-C selected by Raeann Cookley
+Seat 1-C selected by Teodorico Podmore
+Seat 1-D selected by Flynn Tramel
+Seat 1-D selected by Charley Shepherdson
+Seat 1-D booked by   Flynn Tramel
+Seat 1-D selected by Adlai Halgarth
+Seat 1-D selected by Tressa Sibun
+Seat 1-D selected by Winny Lauret
+Seat 1-D selected by Bertine Kobisch
+Seat 1-D selected by Jesse Reams
+Seat 1-E selected by Abra Spaduzza
+Seat 1-E selected by Lars Febre
+Seat 1-E selected by Angela Candlin
+Seat 1-E selected by Gwendolin Springtorpe
+Seat 1-E selected by Teodor Belchamp
+Seat 1-E selected by Loy Bool
+Seat 1-E booked by   Abra Spaduzza
+Seat 1-E selected by Quintin Simm
+Seat 1-F selected by Arvie Kunc
+Seat 1-F selected by Aurea Redparth
+Seat 1-F selected by Malinda Ellingsworth
+Seat 1-F booked by   Arvie Kunc
+Seat 1-F selected by Nananne von Hagt
+Seat 1-F selected by Berget Guidera
+Seat 2-A selected by Mick Orrick
+Seat 2-A selected by Hilton Unstead
+Seat 2-A selected by Osborne Breckin
+Seat 2-A selected by Loree Ivie
+Seat 2-A selected by Isabeau Cavanagh
+Seat 2-A booked by   Mick Orrick
+Seat 2-B selected by Boyce Jahns
+Seat 2-B selected by Ashlen Ziems
+Seat 2-B selected by Missie Romanelli
+Seat 2-B selected by Dacia Perceval
+Seat 2-B selected by Napoleon Merritt
+Seat 2-B booked by   Boyce Jahns
+Seat 2-B selected by Sammy Chilles
+Seat 2-B selected by Cortney Killwick
+Seat 2-B selected by Field Redmond
+Seat 2-C selected by Emilee Biscomb
+Seat 2-C selected by Gage Bullen
+Seat 2-C selected by Joane Clothier
+Seat 2-C selected by Sean Borres
+Seat 2-C selected by Tymothy McKeon
+Seat 2-C selected by Jennifer Lukesch
+Seat 2-C booked by   Gage Bullen
+Seat 2-C selected by Vladamir Wraxall
+Seat 2-D selected by Eula Cutbirth
+Seat 2-D selected by Angeli McKeveney
+Seat 2-D selected by Beatriz Borrell
+Seat 2-D selected by Nevin Alfonsetti
+Seat 2-D booked by   Eula Cutbirth
+Seat 2-D selected by Tiebold Valentim
+Seat 2-D selected by Chet Verrick
+Seat 2-D selected by Kinna Minihan
+Seat 2-D selected by Lars Commuzzo
+Seat 2-D selected by Sutton Keilty
+Seat 2-D selected by Rikki Laugharne
+Seat 2-D selected by Shelia Ardy
+Seat 2-D selected by Calv Duffy
+Seat 2-D selected by Lucky Soot
+Seat 2-D selected by Gena Hellcat
+Seat 2-E selected by Mariele Lailey
+Seat 2-E selected by Cinderella Ternault
+Seat 2-E booked by   Mariele Lailey
+Seat 2-F selected by Derk Willcott
+Seat 2-F selected by Kerianne Leathlay
+Seat 2-F selected by Reinold Staves
+Seat 2-F selected by Blondelle Bawme
+Seat 2-F booked by   Kerianne Leathlay
+Seat 2-F selected by Ozzie Levey
+Seat 2-F selected by Silvester Fance
+Seat 2-F selected by Bar Gerrett
+Seat 2-F selected by Nickolaus Arnot
+Seat 2-F selected by Gabriell Johnke
+Seat 2-F selected by Guglielmo Tander
+Seat 2-F selected by Dina Joseff
+Seat 3-A selected by Charlton Kruger
+Seat 3-A selected by Blayne Barszczewski
+Seat 3-A selected by Arnoldo Fawkes
+Seat 3-A selected by Amargo MacGillavery
+Seat 3-A selected by Delora Le Grice
+Seat 3-A selected by Margaux Pitherick
+Seat 3-A selected by Hardy Wadworth
+Seat 3-A selected by Aidan Luparto
+Seat 3-A selected by Vaughan Smewin
+Seat 3-A booked by   Charlton Kruger
+Seat 3-A selected by Packston Giovannelli
+Seat 3-A selected by Lilah Glide
+Seat 3-B selected by Marcile McClenaghan
+Seat 3-B selected by Xenia Burd
+Seat 3-B selected by Lanna Vasquez
+Seat 3-B selected by Mace Como
+Seat 3-B booked by   Xenia Burd
+Seat 3-B selected by Olivero Jaray
+Seat 3-B selected by Sheena Mullis
+Seat 3-B selected by Pauletta Jarrold
+Seat 3-B selected by Lacee Fillgate
+Seat 3-C selected by Torey Owlner
+Seat 3-C selected by Meridith Staden
+Seat 3-C booked by   Meridith Staden
+Seat 3-C selected by Concordia Beldom
+Seat 3-C selected by Lek Woofenden
+Seat 3-C selected by Beck Hansley
+Seat 3-C selected by Gram Hellcat
+Seat 3-D selected by Gregor Minter
+Seat 3-D booked by   Gregor Minter
+ Time taken(ms): 66 approach 1
+
+
+Approach 1
+
+ A  B  C    D  E  F 
+ X  X  X    X  X  X     [1]
+ X  X  X    X  X  X     [2]
+ X  X  X    X  .  .     [3]
+ .  .  .    .  .  .     [4]
+ .  .  .    .  .  .     [5]
+ .  .  .    .  .  .     [6]
+ .  .  .    .  .  .     [7]
+ .  .  .    .  .  .     [8]
+ .  .  .    .  .  .     [9]
+ .  .  .    .  .  .     [10]
+ .  .  .    .  .  .     [11]
+ .  .  .    .  .  .     [12]
+ .  .  .    .  .  .     [13]
+ .  .  .    .  .  .     [14]
+ .  .  .    .  .  .     [15]
+ .  .  .    .  .  .     [16]
+ .  .  .    .  .  .     [17]
+ .  .  .    .  .  .     [18]
+ .  .  .    .  .  .     [19]
+ .  .  .    .  .  .     [20]
+
+Seat 1-A selected by Jerry Hallatt
+Seat 1-A booked by   Jerry Hallatt
+Seat 1-B selected by Willi Weiss
+Seat 1-B booked by   Willi Weiss
+Seat 1-C selected by Alexandrina Casley
+Seat 1-C booked by   Alexandrina Casley
+Seat 1-D selected by Zacherie Reaveley
+Seat 1-D booked by   Zacherie Reaveley
+Seat 1-E selected by Beatriz Borrell
+Seat 1-E booked by   Beatriz Borrell
+Seat 1-F selected by Eula Cutbirth
+Seat 1-F booked by   Eula Cutbirth
+Seat 2-A selected by Orlan Bickerstaff
+Seat 2-A booked by   Orlan Bickerstaff
+Seat 2-B selected by Dacia Perceval
+Seat 2-B booked by   Dacia Perceval
+Seat 2-C selected by Mariele Lailey
+Seat 2-C booked by   Mariele Lailey
+Seat 2-D selected by Torey Owlner
+Seat 2-D booked by   Torey Owlner
+Seat 2-E selected by Jennifer Lukesch
+Seat 2-E booked by   Jennifer Lukesch
+Seat 2-F selected by Gena Hellcat
+Seat 2-F booked by   Gena Hellcat
+Seat 3-A selected by Prince Clac
+Seat 3-A booked by   Prince Clac
+Seat 3-B selected by Nananne von Hagt
+Seat 3-B booked by   Nananne von Hagt
+Seat 3-C selected by Pauletta Jarrold
+Seat 3-C booked by   Pauletta Jarrold
+Seat 3-D selected by Missie Romanelli
+Seat 3-D booked by   Missie Romanelli
+Seat 3-E selected by Silvester Fance
+Seat 3-E booked by   Silvester Fance
+Seat 3-F selected by Sarge Kenshole
+Seat 3-F booked by   Sarge Kenshole
+Seat 4-A selected by Concordia Beldom
+Seat 4-A booked by   Concordia Beldom
+Seat 4-B selected by Jewel Sutcliffe
+Seat 4-B booked by   Jewel Sutcliffe
+Seat 4-C selected by Rikki Laugharne
+Seat 4-C booked by   Rikki Laugharne
+Seat 4-D selected by Gwendolin Springtorpe
+Seat 4-D booked by   Gwendolin Springtorpe
+Seat 4-E selected by Lars Commuzzo
+Seat 4-E booked by   Lars Commuzzo
+Seat 4-F selected by Raeann Cookley
+Seat 4-F booked by   Raeann Cookley
+Seat 5-A selected by Ashlen Ziems
+Seat 5-A booked by   Ashlen Ziems
+Seat 5-B selected by Emilee Biscomb
+Seat 5-B booked by   Emilee Biscomb
+Seat 5-C selected by Jesse Reams
+Seat 5-C booked by   Jesse Reams
+Seat 5-D selected by Gabriell Johnke
+Seat 5-D booked by   Gabriell Johnke
+Seat 5-E selected by Jerry Jillitt
+Seat 5-E booked by   Jerry Jillitt
+Seat 5-F selected by Gregor Minter
+Seat 5-F booked by   Gregor Minter
+Seat 6-A selected by Sutton Keilty
+Seat 6-A booked by   Sutton Keilty
+Seat 6-B selected by Kinna Minihan
+Seat 6-B booked by   Kinna Minihan
+Seat 6-C selected by Teodorico Podmore
+Seat 6-C booked by   Teodorico Podmore
+Seat 6-D selected by Lilah Glide
+Seat 6-D booked by   Lilah Glide
+Seat 6-E selected by Lanna Vasquez
+Seat 6-E booked by   Lanna Vasquez
+Seat 6-F selected by Quintin Simm
+Seat 6-F booked by   Quintin Simm
+Seat 7-A selected by Loy Bool
+Seat 7-A booked by   Loy Bool
+Seat 7-B selected by Cortney Killwick
+Seat 7-B booked by   Cortney Killwick
+Seat 7-C selected by Beck Hansley
+Seat 7-C booked by   Beck Hansley
+Seat 7-D selected by Gram Hellcat
+Seat 7-D booked by   Gram Hellcat
+Seat 7-E selected by Emeline Borgesio
+Seat 7-E booked by   Emeline Borgesio
+Seat 7-F selected by Arnoldo Fawkes
+Seat 7-F booked by   Arnoldo Fawkes
+Seat 8-A selected by Teodor Belchamp
+Seat 8-A booked by   Teodor Belchamp
+Seat 8-B selected by Tymothy McKeon
+Seat 8-B booked by   Tymothy McKeon
+Seat 8-C selected by Sean Borres
+Seat 8-C booked by   Sean Borres
+Seat 8-D selected by Ozzie Levey
+Seat 8-D booked by   Ozzie Levey
+Seat 8-E selected by Lacee Fillgate
+Seat 8-E booked by   Lacee Fillgate
+Seat 8-F selected by Joane Clothier
+Seat 8-F booked by   Joane Clothier
+Seat 9-A selected by Ramsey Van Velden
+Seat 9-A booked by   Ramsey Van Velden
+Seat 9-B selected by Boyce Jahns
+Seat 9-B booked by   Boyce Jahns
+Seat 9-C selected by Shelia Ardy
+Seat 9-C booked by   Shelia Ardy
+Seat 9-D selected by Mick Orrick
+Seat 9-D booked by   Mick Orrick
+Seat 9-E selected by Cyrille Gorger
+Seat 9-E booked by   Cyrille Gorger
+Seat 9-F selected by Amargo MacGillavery
+Seat 9-F booked by   Amargo MacGillavery
+Seat 10-A selected by Denys Marvelley
+Seat 10-A booked by   Denys Marvelley
+Seat 10-B selected by Margaux Pitherick
+Seat 10-B booked by   Margaux Pitherick
+Seat 10-C selected by Nickolaus Arnot
+Seat 10-C booked by   Nickolaus Arnot
+Seat 10-D selected by Christin Frany
+Seat 10-D booked by   Christin Frany
+Seat 10-E selected by Reinold Staves
+Seat 10-E booked by   Reinold Staves
+Seat 10-F selected by Packston Giovannelli
+Seat 10-F booked by   Packston Giovannelli
+Seat 11-A selected by Hardy Wadworth
+Seat 11-A booked by   Hardy Wadworth
+Seat 11-B selected by Derk Willcott
+Seat 11-B booked by   Derk Willcott
+Seat 11-C selected by Delora Le Grice
+Seat 11-C booked by   Delora Le Grice
+Seat 11-D selected by Sheena Mullis
+Seat 11-D booked by   Sheena Mullis
+Seat 11-E selected by Blondelle Bawme
+Seat 11-E booked by   Blondelle Bawme
+Seat 11-F selected by Bertine Kobisch
+Seat 11-F booked by   Bertine Kobisch
+Seat 12-A selected by Kerianne Leathlay
+Seat 12-A booked by   Kerianne Leathlay
+Seat 12-B selected by Calv Duffy
+Seat 12-B booked by   Calv Duffy
+Seat 12-C selected by Lucky Soot
+Seat 12-C booked by   Lucky Soot
+Seat 12-D selected by Vladamir Wraxall
+Seat 12-D booked by   Vladamir Wraxall
+Seat 12-E selected by Aidan Luparto
+Seat 12-E booked by   Aidan Luparto
+Seat 12-F selected by Winny Lauret
+Seat 12-F booked by   Winny Lauret
+Seat 13-A selected by Adlai Halgarth
+Seat 13-A booked by   Adlai Halgarth
+Seat 13-B selected by Loree Ivie
+Seat 13-B booked by   Loree Ivie
+Seat 13-C selected by Tressa Sibun
+Seat 13-C booked by   Tressa Sibun
+Seat 13-D selected by Dina Joseff
+Seat 13-D booked by   Dina Joseff
+Seat 13-E selected by Nevin Alfonsetti
+Seat 13-E booked by   Nevin Alfonsetti
+Seat 13-F selected by Tiebold Valentim
+Seat 13-F booked by   Tiebold Valentim
+Seat 14-A selected by Chet Verrick
+Seat 14-A booked by   Chet Verrick
+Seat 14-B selected by Guglielmo Tander
+Seat 14-B booked by   Guglielmo Tander
+Seat 14-C selected by Aurea Redparth
+Seat 14-C booked by   Aurea Redparth
+Seat 14-D selected by Abra Spaduzza
+Seat 14-D booked by   Abra Spaduzza
+Seat 14-E selected by Bar Gerrett
+Seat 14-E booked by   Bar Gerrett
+Seat 14-F selected by Angela Candlin
+Seat 14-F booked by   Angela Candlin
+Seat 15-A selected by Osborne Breckin
+Seat 15-A booked by   Osborne Breckin
+Seat 15-B selected by Malinda Ellingsworth
+Seat 15-B booked by   Malinda Ellingsworth
+Seat 15-C selected by Cinderella Ternault
+Seat 15-C booked by   Cinderella Ternault
+Seat 15-D selected by Olivero Jaray
+Seat 15-D booked by   Olivero Jaray
+Seat 15-E selected by Flynn Tramel
+Seat 15-E booked by   Flynn Tramel
+Seat 15-F selected by Xenia Burd
+Seat 15-F booked by   Xenia Burd
+Seat 16-A selected by Gage Bullen
+Seat 16-A booked by   Gage Bullen
+Seat 16-B selected by Meridith Staden
+Seat 16-B booked by   Meridith Staden
+Seat 16-C selected by Lars Febre
+Seat 16-C booked by   Lars Febre
+Seat 16-D selected by Field Redmond
+Seat 16-D booked by   Field Redmond
+Seat 16-E selected by Vaughan Smewin
+Seat 16-E booked by   Vaughan Smewin
+Seat 16-F selected by Merralee Gaw
+Seat 16-F booked by   Merralee Gaw
+Seat 17-A selected by Charlton Kruger
+Seat 17-A booked by   Charlton Kruger
+Seat 17-B selected by Marcile McClenaghan
+Seat 17-B booked by   Marcile McClenaghan
+Seat 17-C selected by Arvie Kunc
+Seat 17-C booked by   Arvie Kunc
+Seat 17-D selected by Mace Como
+Seat 17-D booked by   Mace Como
+Seat 17-E selected by Sammy Chilles
+Seat 17-E booked by   Sammy Chilles
+Seat 17-F selected by Angeli McKeveney
+Seat 17-F booked by   Angeli McKeveney
+Seat 18-A selected by Charley Shepherdson
+Seat 18-A booked by   Charley Shepherdson
+Seat 18-B selected by Blayne Barszczewski
+Seat 18-B booked by   Blayne Barszczewski
+Seat 18-C selected by Berget Guidera
+Seat 18-C booked by   Berget Guidera
+Seat 18-D selected by Francesco Holbie
+Seat 18-D booked by   Francesco Holbie
+Seat 18-E selected by Drake Bernardoni
+Seat 18-E booked by   Drake Bernardoni
+Seat 18-F selected by Hilton Unstead
+Seat 18-F booked by   Hilton Unstead
+Seat 19-A selected by Irvine Dudenie
+Seat 19-A booked by   Irvine Dudenie
+Seat 19-B selected by Clayton Wilflinger
+Seat 19-B booked by   Clayton Wilflinger
+Seat 19-C selected by Lek Woofenden
+Seat 19-C booked by   Lek Woofenden
+Seat 19-D selected by Beale Applegate
+Seat 19-D booked by   Beale Applegate
+Seat 19-E selected by Napoleon Merritt
+Seat 19-E booked by   Napoleon Merritt
+Seat 19-F selected by Isabeau Cavanagh
+Seat 19-F booked by   Isabeau Cavanagh
+Seat 20-A selected by Abey Askie
+Seat 20-A booked by   Abey Askie
+Seat 20-B selected by Krysta Guppie
+Seat 20-B booked by   Krysta Guppie
+Seat 20-C selected by Linnea Glander
+Seat 20-C booked by   Linnea Glander
+Seat 20-D selected by Cahra Bolden
+Seat 20-D booked by   Cahra Bolden
+Seat 20-E selected by Curry Caughte
+Seat 20-E booked by   Curry Caughte
+Seat 20-F selected by Jakie Cuddy
+Seat 20-F booked by   Jakie Cuddy
+ Time taken(ms): 128 approach 2
+
+
+Approach 2
+
+ A  B  C    D  E  F 
+ X  X  X    X  X  X     [1]
+ X  X  X    X  X  X     [2]
+ X  X  X    X  X  X     [3]
+ X  X  X    X  X  X     [4]
+ X  X  X    X  X  X     [5]
+ X  X  X    X  X  X     [6]
+ X  X  X    X  X  X     [7]
+ X  X  X    X  X  X     [8]
+ X  X  X    X  X  X     [9]
+ X  X  X    X  X  X     [10]
+ X  X  X    X  X  X     [11]
+ X  X  X    X  X  X     [12]
+ X  X  X    X  X  X     [13]
+ X  X  X    X  X  X     [14]
+ X  X  X    X  X  X     [15]
+ X  X  X    X  X  X     [16]
+ X  X  X    X  X  X     [17]
+ X  X  X    X  X  X     [18]
+ X  X  X    X  X  X     [19]
+ X  X  X    X  X  X     [20]
+
+Seat 1-C selected by Alexandrina Casley
+Seat 1-B selected by Prince Clac
+Seat 1-A selected by Curry Caughte
+Seat 1-D selected by Jerry Hallatt
+Seat 1-E selected by Willi Weiss
+Seat 1-F selected by Francesco Holbie
+Seat 1-A booked by   Curry Caughte
+Seat 2-A selected by Clayton Wilflinger
+Seat 1-C booked by   Alexandrina Casley
+Seat 1-B booked by   Prince Clac
+Seat 1-D booked by   Jerry Hallatt
+Seat 1-E booked by   Willi Weiss
+Seat 2-C selected by Emeline Borgesio
+Seat 2-A booked by   Clayton Wilflinger
+Seat 2-B selected by Missie Romanelli
+Seat 1-F booked by   Francesco Holbie
+Seat 2-C booked by   Emeline Borgesio
+Seat 2-D selected by Beale Applegate
+Seat 2-B booked by   Missie Romanelli
+Seat 2-D booked by   Beale Applegate
+Seat 2-E selected by Lek Woofenden
+Seat 2-F selected by Krysta Guppie
+Seat 3-A selected by Hilton Unstead
+Seat 3-A booked by   Hilton Unstead
+Seat 2-F booked by   Krysta Guppie
+Seat 2-E booked by   Lek Woofenden
+Seat 3-B selected by Linnea Glander
+Seat 3-C selected by Osborne Breckin
+Seat 3-D selected by Drake Bernardoni
+Seat 3-E selected by Berget Guidera
+Seat 3-F selected by Merralee Gaw
+Seat 3-C booked by   Osborne Breckin
+Seat 3-B booked by   Linnea Glander
+Seat 3-D booked by   Drake Bernardoni
+Seat 3-F booked by   Merralee Gaw
+Seat 3-E booked by   Berget Guidera
+Seat 4-A selected by Isabeau Cavanagh
+Seat 4-B selected by Sammy Chilles
+Seat 4-C selected by Denys Marvelley
+Seat 4-A booked by   Isabeau Cavanagh
+Seat 4-C booked by   Denys Marvelley
+Seat 4-B booked by   Sammy Chilles
+Seat 4-D selected by Cahra Bolden
+Seat 4-E selected by Napoleon Merritt
+Seat 4-F selected by Jakie Cuddy
+Seat 4-E booked by   Napoleon Merritt
+Seat 4-D booked by   Cahra Bolden
+Seat 4-F booked by   Jakie Cuddy
+Seat 5-A selected by Beck Hansley
+Seat 5-B selected by Beatriz Borrell
+Seat 5-C selected by Torey Owlner
+Seat 5-D selected by Boyce Jahns
+Seat 5-B booked by   Beatriz Borrell
+Seat 5-A booked by   Beck Hansley
+Seat 5-E selected by Field Redmond
+Seat 5-C booked by   Torey Owlner
+Seat 5-D booked by   Boyce Jahns
+Seat 5-F selected by Emilee Biscomb
+Seat 5-E booked by   Field Redmond
+Seat 6-A selected by Meridith Staden
+Seat 6-B selected by Loree Ivie
+Seat 5-F booked by   Emilee Biscomb
+Seat 6-A booked by   Meridith Staden
+Seat 6-C selected by Mace Como
+Seat 6-D selected by Calv Duffy
+Seat 6-B booked by   Loree Ivie
+Seat 6-E selected by Lacee Fillgate
+Seat 6-C booked by   Mace Como
+Seat 6-D booked by   Calv Duffy
+Seat 6-F selected by Jerry Jillitt
+Seat 7-B selected by Marcile McClenaghan
+Seat 7-A selected by Sheena Mullis
+Seat 6-E booked by   Lacee Fillgate
+Seat 7-C selected by Nananne von Hagt
+Seat 7-A booked by   Sheena Mullis
+Seat 6-F booked by   Jerry Jillitt
+Seat 7-B booked by   Marcile McClenaghan
+Seat 7-C booked by   Nananne von Hagt
+Seat 7-D selected by Margaux Pitherick
+Seat 7-E selected by Blayne Barszczewski
+Seat 7-F selected by Arnoldo Fawkes
+Seat 7-D booked by   Margaux Pitherick
+Seat 7-E booked by   Blayne Barszczewski
+Seat 7-F booked by   Arnoldo Fawkes
+Seat 8-A selected by Jesse Reams
+Seat 8-B selected by Winny Lauret
+Seat 8-C selected by Adlai Halgarth
+Seat 8-A booked by   Jesse Reams
+Seat 8-B booked by   Winny Lauret
+Seat 8-E selected by Tressa Sibun
+Seat 8-D selected by Nickolaus Arnot
+Seat 8-C booked by   Adlai Halgarth
+Seat 8-F selected by Kerianne Leathlay
+Seat 8-D booked by   Nickolaus Arnot
+Seat 8-E booked by   Tressa Sibun
+Seat 9-A selected by Jewel Sutcliffe
+Seat 9-B selected by Dacia Perceval
+Seat 8-F booked by   Kerianne Leathlay
+Seat 9-A booked by   Jewel Sutcliffe
+Seat 9-B booked by   Dacia Perceval
+Seat 9-C selected by Ashlen Ziems
+Seat 9-D selected by Gage Bullen
+Seat 9-E selected by Sean Borres
+Seat 9-F selected by Jennifer Lukesch
+Seat 9-D booked by   Gage Bullen
+Seat 9-C booked by   Ashlen Ziems
+Seat 9-E booked by   Sean Borres
+Seat 10-A selected by Joane Clothier
+Seat 9-F booked by   Jennifer Lukesch
+Seat 10-B selected by Tymothy McKeon
+Seat 10-C selected by Gram Hellcat
+Seat 10-D selected by Vladamir Wraxall
+Seat 10-A booked by   Joane Clothier
+Seat 10-B booked by   Tymothy McKeon
+Seat 10-E selected by Angeli McKeveney
+Seat 10-C booked by   Gram Hellcat
+Seat 10-F selected by Eula Cutbirth
+Seat 10-D booked by   Vladamir Wraxall
+Seat 11-A selected by Shelia Ardy
+Seat 10-E booked by   Angeli McKeveney
+Seat 11-B selected by Ramsey Van Velden
+Seat 11-A booked by   Shelia Ardy
+Seat 11-C selected by Bertine Kobisch
+Seat 10-F booked by   Eula Cutbirth
+Seat 11-D selected by Nevin Alfonsetti
+Seat 11-B booked by   Ramsey Van Velden
+Seat 11-C booked by   Bertine Kobisch
+Seat 11-D booked by   Nevin Alfonsetti
+Seat 11-E selected by Lars Febre
+Seat 11-F selected by Concordia Beldom
+Seat 12-A selected by Aurea Redparth
+Seat 12-B selected by Kinna Minihan
+Seat 11-F booked by   Concordia Beldom
+Seat 12-C selected by Rikki Laugharne
+Seat 11-E booked by   Lars Febre
+Seat 12-A booked by   Aurea Redparth
+Seat 12-D selected by Lars Commuzzo
+Seat 12-B booked by   Kinna Minihan
+Seat 12-C booked by   Rikki Laugharne
+Seat 12-D booked by   Lars Commuzzo
+Seat 12-E selected by Charley Shepherdson
+Seat 12-F selected by Sutton Keilty
+Seat 13-A selected by Angela Candlin
+Seat 13-B selected by Cinderella Ternault
+Seat 13-C selected by Arvie Kunc
+Seat 13-B booked by   Cinderella Ternault
+Seat 12-F booked by   Sutton Keilty
+Seat 13-D selected by Xenia Burd
+Seat 13-E selected by Loy Bool
+Seat 13-F selected by Mariele Lailey
+Seat 13-A booked by   Angela Candlin
+Seat 13-C booked by   Arvie Kunc
+Seat 14-A selected by Christin Frany
+Seat 13-D booked by   Xenia Burd
+Seat 12-E booked by   Charley Shepherdson
+Seat 14-B selected by Flynn Tramel
+Seat 14-A booked by   Christin Frany
+Seat 13-E booked by   Loy Bool
+Seat 13-F booked by   Mariele Lailey
+Seat 14-B booked by   Flynn Tramel
+Seat 14-D selected by Zacherie Reaveley
+Seat 14-E selected by Delora Le Grice
+Seat 14-C selected by Lilah Glide
+Seat 15-A selected by Dina Joseff
+Seat 14-F selected by Packston Giovannelli
+Seat 14-E booked by   Delora Le Grice
+Seat 15-A booked by   Dina Joseff
+Seat 14-F booked by   Packston Giovannelli
+Seat 14-D booked by   Zacherie Reaveley
+Seat 15-B selected by Olivero Jaray
+Seat 14-C booked by   Lilah Glide
+Seat 15-B booked by   Olivero Jaray
+Seat 15-D selected by Teodorico Podmore
+Seat 15-C selected by Silvester Fance
+Seat 15-E selected by Cyrille Gorger
+Seat 15-C booked by   Silvester Fance
+Seat 15-D booked by   Teodorico Podmore
+Seat 15-E booked by   Cyrille Gorger
+Seat 15-F selected by Sarge Kenshole
+Seat 16-A selected by Amargo MacGillavery
+Seat 15-F booked by   Sarge Kenshole
+Seat 16-B selected by Quintin Simm
+Seat 16-A booked by   Amargo MacGillavery
+Seat 16-C selected by Mick Orrick
+Seat 16-B booked by   Quintin Simm
+Seat 16-D selected by Vaughan Smewin
+Seat 16-C booked by   Mick Orrick
+Seat 16-D booked by   Vaughan Smewin
+Seat 16-E selected by Gabriell Johnke
+Seat 16-E booked by   Gabriell Johnke
+Seat 16-F selected by Reinold Staves
+Seat 17-A selected by Ozzie Levey
+Seat 16-F booked by   Reinold Staves
+Seat 17-B selected by Aidan Luparto
+Seat 17-A booked by   Ozzie Levey
+Seat 17-C selected by Derk Willcott
+Seat 17-B booked by   Aidan Luparto
+Seat 17-C booked by   Derk Willcott
+Seat 17-D selected by Hardy Wadworth
+Seat 17-E selected by Abey Askie
+Seat 17-F selected by Guglielmo Tander
+Seat 17-E booked by   Abey Askie
+Seat 17-D booked by   Hardy Wadworth
+Seat 17-F booked by   Guglielmo Tander
+Seat 18-A selected by Gregor Minter
+Seat 18-B selected by Blondelle Bawme
+Seat 18-C selected by Bar Gerrett
+Seat 18-A booked by   Gregor Minter
+Seat 18-B booked by   Blondelle Bawme
+Seat 18-D selected by Abra Spaduzza
+Seat 18-C booked by   Bar Gerrett
+Seat 18-D booked by   Abra Spaduzza
+Seat 18-E selected by Gwendolin Springtorpe
+Seat 18-E booked by   Gwendolin Springtorpe
+Seat 18-F selected by Malinda Ellingsworth
+Seat 19-A selected by Irvine Dudenie
+Seat 19-B selected by Chet Verrick
+Seat 19-A booked by   Irvine Dudenie
+Seat 19-B booked by   Chet Verrick
+Seat 18-F booked by   Malinda Ellingsworth
+Seat 19-C selected by Gena Hellcat
+Seat 19-D selected by Teodor Belchamp
+Seat 19-E selected by Pauletta Jarrold
+Seat 19-C booked by   Gena Hellcat
+Seat 19-F selected by Lanna Vasquez
+Seat 19-D booked by   Teodor Belchamp
+Seat 19-F booked by   Lanna Vasquez
+Seat 19-E booked by   Pauletta Jarrold
+Seat 20-A selected by Raeann Cookley
+Seat 20-B selected by Tiebold Valentim
+Seat 20-A booked by   Raeann Cookley
+Seat 20-B booked by   Tiebold Valentim
+Seat 20-C selected by Charlton Kruger
+Seat 20-D selected by Orlan Bickerstaff
+Seat 20-C booked by   Charlton Kruger
+Seat 20-E selected by Lucky Soot
+Seat 20-D booked by   Orlan Bickerstaff
+Seat 20-E booked by   Lucky Soot
+Seat 20-F selected by Cortney Killwick
+Seat 20-F booked by   Cortney Killwick
+ Time taken(ms): 31 approach 3
+
+
+Approach 3
+
+ A  B  C    D  E  F 
+ X  X  X    X  X  X     [1]
+ X  X  X    X  X  X     [2]
+ X  X  X    X  X  X     [3]
+ X  X  X    X  X  X     [4]
+ X  X  X    X  X  X     [5]
+ X  X  X    X  X  X     [6]
+ X  X  X    X  X  X     [7]
+ X  X  X    X  X  X     [8]
+ X  X  X    X  X  X     [9]
+ X  X  X    X  X  X     [10]
+ X  X  X    X  X  X     [11]
+ X  X  X    X  X  X     [12]
+ X  X  X    X  X  X     [13]
+ X  X  X    X  X  X     [14]
+ X  X  X    X  X  X     [15]
+ X  X  X    X  X  X     [16]
+ X  X  X    X  X  X     [17]
+ X  X  X    X  X  X     [18]
+ X  X  X    X  X  X     [19]
+ X  X  X    X  X  X     [20]
+
